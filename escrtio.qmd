@@ -23,7 +23,7 @@ You can add options to executable code like this
 1+2+3
 ```
 ```{r}
-12-2
+12-2*24
 ```
 
 The `echo: false` option disables the printing of code (only output is displayed).
